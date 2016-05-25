@@ -1,1 +1,1 @@
-include 'admin'
+include 'admin','domain'
