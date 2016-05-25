@@ -68,4 +68,8 @@ eclipse {
 }
 */
 
+bootRepackage {
+    mainClass = 'se.radley.admin.AdminApp'
+}
+
 
