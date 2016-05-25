@@ -52,9 +52,6 @@ allprojects {
 		mavenCentral()
 	}
 
-    tasks.withType(JavaCompile) {
-        options.incremental = true
-    }
 }
 
 subprojects {
